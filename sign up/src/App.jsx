@@ -1,13 +1,14 @@
 
 import React from 'react'
-import Homepage from './components/Homepage.jsx'
+
+import LibraryPanel from './components/librarypanel.jsx'
 
 function App() {
  
 
   return (
     <>
-     <Homepage/>
+     <LibraryPanel/>
     </>
   )
 }

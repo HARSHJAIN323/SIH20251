@@ -1,14 +1,15 @@
 
 import React from 'react'
+import HostelPanel from './components/HostelPanel'
 
-import LibraryPanel from './components/librarypanel.jsx'
+
 
 function App() {
  
 
   return (
     <>
-     <LibraryPanel/>
+     <HostelPanel/>
     </>
   )
 }
